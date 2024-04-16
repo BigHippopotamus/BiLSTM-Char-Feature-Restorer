@@ -2,7 +2,7 @@ from setuptools import setup
 
 REQUIREMENTS = [
     'tensorflow',
-    'keras==2.8.0',
+    'keras',
     'tqdm',
     'scikit-learn',
     'uniseg',
